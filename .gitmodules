@@ -1,0 +1,6 @@
+[submodule "url-shortener-ui"]
+	path = url-shortener-ui
+	url = https://github.com/VedantWankhade/url-shortener-ui.git
+[submodule "url-shortener-api"]
+	path = url-shortener-api
+	url = https://github.com/VedantWankhade/url-shortener-api.git
